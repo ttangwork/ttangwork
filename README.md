@@ -1,7 +1,7 @@
 Cloud & DevOps engineer passionate about SRE and Platform Engineering.
 
 ## 🛠️ What I use
-AWS • GCP • Kubernetes • Terraform • Docker • Linux • Python
+AWS • GCP • Kubernetes • Terraform • Docker • Linux
 
 ## 🌱 Currently Exploring
 - AI agents & LLMs
